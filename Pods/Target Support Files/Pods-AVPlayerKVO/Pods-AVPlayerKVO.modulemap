@@ -1,0 +1,6 @@
+framework module Pods_AVPlayerKVO {
+  umbrella header "Pods-AVPlayerKVO-umbrella.h"
+
+  export *
+  module * { export * }
+}
