@@ -44,6 +44,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var videoContainer: UIView!
     @IBOutlet weak var playPauseButton: UIButton!
     @IBOutlet weak var positionSlider: UISlider!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
